@@ -1,0 +1,20 @@
+body {
+  background-color: aqua;
+}
+
+h1,
+h2 {
+  color: blueviolet;
+  background-color: greenyellow;
+}
+
+.text {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 900;
+  color: red;
+}
+
+img {
+  width: 300;
+  height: auto;
+}

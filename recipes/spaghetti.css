@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(255, 73, 73);
+}
+
+h1,
+h2 {
+  color: blue;
+}
+
+.text {
+  font-family: sans-serif;
+  font-weight: bold;
+}

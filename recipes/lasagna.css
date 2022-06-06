@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(238, 255, 0);
+}
+
+h1,
+h2 {
+  color: red;
+  font-weight: bold;
+}
+
+.text {
+  color: purple;
+  font-weight: bold;
+}
